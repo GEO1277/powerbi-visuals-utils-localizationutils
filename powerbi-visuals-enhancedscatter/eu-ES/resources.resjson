@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Irudiaren URLa",
   "Visual_Crosshair": "Mira",
   "Visual_Outline": "Ingurua",
-  "Visual_ColorSaturation": "Kolorearen saturazioa"
+  "Visual_ColorSaturation": "Kolorearen saturazioa",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

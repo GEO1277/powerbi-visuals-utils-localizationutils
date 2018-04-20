@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Afbeeldings-URL",
   "Visual_Crosshair": "Dradenkruis",
   "Visual_Outline": "Omtrek",
-  "Visual_ColorSaturation": "Kleurverzadiging"
+  "Visual_ColorSaturation": "Kleurverzadiging",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

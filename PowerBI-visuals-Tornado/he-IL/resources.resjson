@@ -27,5 +27,10 @@
   "Visual_Color": "צבע",
   "Visual_Group_Left": "שמאל",
   "Visual_Group_Right": "לימין",
-  "Visual_Values": "ערכים"
+  "Visual_Values": "ערכים",
+  "Visual_Description_DataColors": "Display data color options",
+  "Visual_HighlightedValueDisplayName": "Highlighted",
+  "Visual_Label": "Label",
+  "Visual_Labels": "Labels",
+  "Visual_Position": "Position"
 }

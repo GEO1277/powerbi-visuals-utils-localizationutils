@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "छवि URL",
   "Visual_Crosshair": "क्रॉसहेयर",
   "Visual_Outline": "आउटलाइन",
-  "Visual_ColorSaturation": "रंग संतृप्तता"
+  "Visual_ColorSaturation": "रंग संतृप्तता",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

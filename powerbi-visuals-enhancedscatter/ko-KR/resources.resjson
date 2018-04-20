@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "이미지 URL",
   "Visual_Crosshair": "십자 기호",
   "Visual_Outline": "윤곽선",
-  "Visual_ColorSaturation": "색 채도"
+  "Visual_ColorSaturation": "색 채도",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

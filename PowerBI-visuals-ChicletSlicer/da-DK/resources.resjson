@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Ramme",
   "Visual_Images_Round": "Afrund",
   "Visual_Selection": "Valg",
-  "Visual_show": "Vis"
+  "Visual_show": "Vis",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

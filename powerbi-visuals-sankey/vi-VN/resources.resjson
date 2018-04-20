@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Kích cỡ cổng xem",
   "Visual_Display_Units": "Hiển thị đơn vị",
   "Visual_SankeyScaleSettings": "Cài đặt cấp độ",
-  "Visual_MinOptimalHeight": "Cung cấp chiều cao nút tối ưu tối thiểu"
+  "Visual_MinOptimalHeight": "Cung cấp chiều cao nút tối ưu tối thiểu",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

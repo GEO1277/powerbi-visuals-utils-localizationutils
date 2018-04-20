@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "URL адрес на изображение",
   "Visual_Crosshair": "Прицел",
   "Visual_Outline": "Контур",
-  "Visual_ColorSaturation": "Цветово насищане"
+  "Visual_ColorSaturation": "Цветово насищане",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

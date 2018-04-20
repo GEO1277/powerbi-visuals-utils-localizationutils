@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "URL รูป",
   "Visual_Crosshair": "เครื่องหมายกรอบเล็ง",
   "Visual_Outline": "เค้าร่าง",
-  "Visual_ColorSaturation": "การอิ่มตัวสี"
+  "Visual_ColorSaturation": "การอิ่มตัวสี",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

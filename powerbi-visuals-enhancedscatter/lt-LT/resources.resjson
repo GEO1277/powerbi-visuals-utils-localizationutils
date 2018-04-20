@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Vaizdo URL",
   "Visual_Crosshair": "Kryžiukas",
   "Visual_Outline": "Kontūras",
-  "Visual_ColorSaturation": "Spalvos grynis"
+  "Visual_ColorSaturation": "Spalvos grynis",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

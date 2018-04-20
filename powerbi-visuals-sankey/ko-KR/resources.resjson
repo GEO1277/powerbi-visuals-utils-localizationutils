@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "뷰포트 크기",
   "Visual_Display_Units": "표시 단위",
   "Visual_SankeyScaleSettings": "크기 조정 설정",
-  "Visual_MinOptimalHeight": "노드의 최소 최적 높이를 지정합니다."
+  "Visual_MinOptimalHeight": "노드의 최소 최적 높이를 지정합니다.",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

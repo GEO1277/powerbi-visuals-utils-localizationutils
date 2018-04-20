@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Skatvietas lielumi",
   "Visual_Display_Units": "Rādāmās vienības",
   "Visual_SankeyScaleSettings": "Mēroga iestatījumi",
-  "Visual_MinOptimalHeight": "Nodrošināt min. optimālo mezgla augstumu"
+  "Visual_MinOptimalHeight": "Nodrošināt min. optimālo mezgla augstumu",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

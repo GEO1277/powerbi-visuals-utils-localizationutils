@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "כתובת URL של תמונה",
   "Visual_Crosshair": "צלב",
   "Visual_Outline": "מיתאר",
-  "Visual_ColorSaturation": "רוויית צבע"
+  "Visual_ColorSaturation": "רוויית צבע",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Bingkai",
   "Visual_Images_Round": "Bulatkan",
   "Visual_Selection": "Pilihan Isian",
-  "Visual_show": "Tampilkan"
+  "Visual_show": "Tampilkan",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

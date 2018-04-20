@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Розміри вікна перегляду",
   "Visual_Display_Units": "Одиниці вимірювання",
   "Visual_SankeyScaleSettings": "Параметри масштабу",
-  "Visual_MinOptimalHeight": "Укажіть оптимальну мінімальну висоту вузла"
+  "Visual_MinOptimalHeight": "Укажіть оптимальну мінімальну висоту вузла",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

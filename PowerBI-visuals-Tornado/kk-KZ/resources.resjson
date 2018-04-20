@@ -27,5 +27,10 @@
   "Visual_Color": "Түс",
   "Visual_Group_Left": "Сол",
   "Visual_Group_Right": "Оң",
-  "Visual_Values": "Мәндер"
+  "Visual_Values": "Мәндер",
+  "Visual_Description_DataColors": "Display data color options",
+  "Visual_HighlightedValueDisplayName": "Highlighted",
+  "Visual_Label": "Label",
+  "Visual_Labels": "Labels",
+  "Visual_Position": "Position"
 }

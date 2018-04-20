@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Pildi URL",
   "Visual_Crosshair": "Sihikujoonestik",
   "Visual_Outline": "Kontuur",
-  "Visual_ColorSaturation": "Värviküllastus"
+  "Visual_ColorSaturation": "Värviküllastus",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

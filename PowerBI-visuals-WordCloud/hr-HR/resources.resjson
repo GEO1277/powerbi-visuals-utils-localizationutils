@@ -20,5 +20,7 @@
   "Visual_RotateText": "Rotiranje teksta",
   "Visual_Excludes": "Izuzima",
   "Visual_PreestimateWordCount": "Unaprijed procijenjeni broj riječi za crtanje",
-  "Visual_Quality": "Kvaliteta"
+  "Visual_Quality": "Kvaliteta",
+  "Visual_Performance": "Performance",
+  "Visual_Description_Quality": "The value determines the quality of the pre-estimation"
 }

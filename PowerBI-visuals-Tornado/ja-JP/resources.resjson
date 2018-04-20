@@ -27,5 +27,10 @@
   "Visual_Color": "色",
   "Visual_Group_Left": "左",
   "Visual_Group_Right": "右",
-  "Visual_Values": "値"
+  "Visual_Values": "値",
+  "Visual_Description_DataColors": "Display data color options",
+  "Visual_HighlightedValueDisplayName": "Highlighted",
+  "Visual_Label": "Label",
+  "Visual_Labels": "Labels",
+  "Visual_Position": "Position"
 }

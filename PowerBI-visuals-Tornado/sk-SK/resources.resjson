@@ -27,5 +27,10 @@
   "Visual_Color": "Farba",
   "Visual_Group_Left": "Doľava",
   "Visual_Group_Right": "Doprava",
-  "Visual_Values": "Hodnoty"
+  "Visual_Values": "Hodnoty",
+  "Visual_Description_DataColors": "Display data color options",
+  "Visual_HighlightedValueDisplayName": "Highlighted",
+  "Visual_Label": "Label",
+  "Visual_Labels": "Labels",
+  "Visual_Position": "Position"
 }

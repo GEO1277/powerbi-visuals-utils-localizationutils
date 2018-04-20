@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "URL-adresse til bilde",
   "Visual_Crosshair": "Trådkors",
   "Visual_Outline": "Disposisjon",
-  "Visual_ColorSaturation": "Fargemetning"
+  "Visual_ColorSaturation": "Fargemetning",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

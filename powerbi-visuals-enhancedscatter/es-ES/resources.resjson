@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Dirección URL de la imagen",
   "Visual_Crosshair": "Cruz",
   "Visual_Outline": "Esquema",
-  "Visual_ColorSaturation": "Saturación de color"
+  "Visual_ColorSaturation": "Saturación de color",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

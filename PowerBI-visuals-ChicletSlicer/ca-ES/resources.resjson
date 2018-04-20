@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Marc",
   "Visual_Images_Round": "Arrodoneix",
   "Visual_Selection": "Selecció",
-  "Visual_show": "Mostra"
+  "Visual_show": "Mostra",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

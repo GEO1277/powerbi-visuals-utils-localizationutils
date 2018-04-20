@@ -42,5 +42,7 @@
   "Visual_Tooltips": "टूलटिप",
   "Visual_ValueCustomName": "\"मान\" कस्टम नाम",
   "Visual_TargetValueCustomName": "\"लक्ष्य मान\" कस्टम नाम",
-  "Visual_TargetValue2CustomName": "\"लक्ष्य मान 2\" कस्टम नाम"
+  "Visual_TargetValue2CustomName": "\"लक्ष्य मान 2\" कस्टम नाम",
+  "Visual_Description_Color": "Select color for data labels",
+  "Visual_Category": "Category"
 }

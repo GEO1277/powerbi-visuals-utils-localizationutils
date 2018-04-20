@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Raam",
   "Visual_Images_Round": "Ümardamine",
   "Visual_Selection": "Valik",
-  "Visual_show": "Kuva"
+  "Visual_show": "Kuva",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

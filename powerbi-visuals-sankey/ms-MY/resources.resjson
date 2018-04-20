@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Saiz port pandangan",
   "Visual_Display_Units": "Paparkan unit",
   "Visual_SankeyScaleSettings": "Seting skala",
-  "Visual_MinOptimalHeight": "Berikan tinggi optimum minimum bagi nod"
+  "Visual_MinOptimalHeight": "Berikan tinggi optimum minimum bagi nod",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

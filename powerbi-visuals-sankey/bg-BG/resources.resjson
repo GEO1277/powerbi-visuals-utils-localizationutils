@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Размери на прозоръчен изглед",
   "Visual_Display_Units": "Показване на единици",
   "Visual_SankeyScaleSettings": "Настройки на мащаба",
-  "Visual_MinOptimalHeight": "Предоставяне на минимална оптимална височина на възела"
+  "Visual_MinOptimalHeight": "Предоставяне на минимална оптимална височина на възела",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

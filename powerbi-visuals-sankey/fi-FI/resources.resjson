@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Näyttöikkunoiden koot",
   "Visual_Display_Units": "Yksiköt",
   "Visual_SankeyScaleSettings": "Skaalausasetukset",
-  "Visual_MinOptimalHeight": "Anna solmun pienin paras mahdollinen korkeus"
+  "Visual_MinOptimalHeight": "Anna solmun pienin paras mahdollinen korkeus",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

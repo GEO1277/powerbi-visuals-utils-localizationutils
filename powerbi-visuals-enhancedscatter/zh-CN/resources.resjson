@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "图像 URL",
   "Visual_Crosshair": "交叉线",
   "Visual_Outline": "边框",
-  "Visual_ColorSaturation": "色彩饱和度"
+  "Visual_ColorSaturation": "色彩饱和度",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

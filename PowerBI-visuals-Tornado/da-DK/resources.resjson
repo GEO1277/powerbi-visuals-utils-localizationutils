@@ -27,5 +27,10 @@
   "Visual_Color": "Farve",
   "Visual_Group_Left": "Venstre",
   "Visual_Group_Right": "Højre",
-  "Visual_Values": "Værdier"
+  "Visual_Values": "Værdier",
+  "Visual_Description_DataColors": "Display data color options",
+  "Visual_HighlightedValueDisplayName": "Highlighted",
+  "Visual_Label": "Label",
+  "Visual_Labels": "Labels",
+  "Visual_Position": "Position"
 }

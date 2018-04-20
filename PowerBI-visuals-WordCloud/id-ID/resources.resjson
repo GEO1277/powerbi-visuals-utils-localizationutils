@@ -20,5 +20,7 @@
   "Visual_RotateText": "Putar Teks",
   "Visual_Excludes": "Tidak Termasuk",
   "Visual_PreestimateWordCount": "Perkiraan jumlah kata sebelumnya untuk menggambar",
-  "Visual_Quality": "Kualitas"
+  "Visual_Quality": "Kualitas",
+  "Visual_Performance": "Performance",
+  "Visual_Description_Quality": "The value determines the quality of the pre-estimation"
 }

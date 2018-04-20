@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Суреттің URL мекенжайы",
   "Visual_Crosshair": "Айқасу",
   "Visual_Outline": "Контур",
-  "Visual_ColorSaturation": "Түс қанықтығы"
+  "Visual_ColorSaturation": "Түс қанықтығы",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

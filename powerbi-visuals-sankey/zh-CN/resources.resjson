@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "视区大小",
   "Visual_Display_Units": "显示单位",
   "Visual_SankeyScaleSettings": "缩放设置",
-  "Visual_MinOptimalHeight": "提供节点的最佳高度下限"
+  "Visual_MinOptimalHeight": "提供节点的最佳高度下限",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

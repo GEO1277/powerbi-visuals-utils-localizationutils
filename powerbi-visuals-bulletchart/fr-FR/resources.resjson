@@ -42,5 +42,7 @@
   "Visual_Tooltips": "Info-bulles",
   "Visual_ValueCustomName": "Nom personnalisé de « Valeur »",
   "Visual_TargetValueCustomName": "Nom personnalisé de « Valeur cible »",
-  "Visual_TargetValue2CustomName": "Nom personnalisé de « Valeur cible 2 »"
+  "Visual_TargetValue2CustomName": "Nom personnalisé de « Valeur cible 2 »",
+  "Visual_Description_Color": "Select color for data labels",
+  "Visual_Category": "Category"
 }

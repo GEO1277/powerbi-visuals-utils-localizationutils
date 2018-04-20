@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "URL Imej",
   "Visual_Crosshair": "Rerambut silang",
   "Visual_Outline": "Rangka",
-  "Visual_ColorSaturation": "Penepuan warna"
+  "Visual_ColorSaturation": "Penepuan warna",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

@@ -20,5 +20,7 @@
   "Visual_RotateText": "Rotar texto",
   "Visual_Excludes": "Exclúe",
   "Visual_PreestimateWordCount": "Estimación previa do número de palabras",
-  "Visual_Quality": "Calidade"
+  "Visual_Quality": "Calidade",
+  "Visual_Performance": "Performance",
+  "Visual_Description_Quality": "The value determines the quality of the pre-estimation"
 }

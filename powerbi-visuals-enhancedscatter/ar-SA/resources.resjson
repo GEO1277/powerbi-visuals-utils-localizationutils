@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "عنوان URL للصورة",
   "Visual_Crosshair": "شعيرة متصالبة",
   "Visual_Outline": "المخطط التفصيلي",
-  "Visual_ColorSaturation": "إشباع الألوان"
+  "Visual_ColorSaturation": "إشباع الألوان",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

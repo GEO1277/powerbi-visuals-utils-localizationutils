@@ -27,5 +27,10 @@
   "Visual_Color": "색",
   "Visual_Group_Left": "왼쪽",
   "Visual_Group_Right": "오른쪽",
-  "Visual_Values": "값"
+  "Visual_Values": "값",
+  "Visual_Description_DataColors": "Display data color options",
+  "Visual_HighlightedValueDisplayName": "Highlighted",
+  "Visual_Label": "Label",
+  "Visual_Labels": "Labels",
+  "Visual_Position": "Position"
 }

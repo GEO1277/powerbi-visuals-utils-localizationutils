@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Rāmis",
   "Visual_Images_Round": "Noapaļot",
   "Visual_Selection": "Atlase",
-  "Visual_show": "Rādīt"
+  "Visual_show": "Rādīt",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

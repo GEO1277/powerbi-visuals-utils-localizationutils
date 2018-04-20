@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Tamaños do portelo",
   "Visual_Display_Units": "Unidades de visualización",
   "Visual_SankeyScaleSettings": "Configuración de redimensión",
-  "Visual_MinOptimalHeight": "Fornecer altura mínima óptima do nó"
+  "Visual_MinOptimalHeight": "Fornecer altura mínima óptima do nó",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

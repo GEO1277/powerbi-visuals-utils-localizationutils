@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Frame",
   "Visual_Images_Round": "Arrotonda",
   "Visual_Selection": "Selezione",
-  "Visual_show": "Mostra"
+  "Visual_show": "Mostra",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Ram",
   "Visual_Images_Round": "Avrunda",
   "Visual_Selection": "Val",
-  "Visual_show": "Visa"
+  "Visual_show": "Visa",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

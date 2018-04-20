@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Cadre",
   "Visual_Images_Round": "Arrondi",
   "Visual_Selection": "Sélection",
-  "Visual_show": "Afficher"
+  "Visual_show": "Afficher",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }

@@ -47,5 +47,8 @@
   "Visual_Backdrop_ImageURL": "Adresa URL obrázka",
   "Visual_Crosshair": "Kríž",
   "Visual_Outline": "Obrys",
-  "Visual_ColorSaturation": "Farebná sýtosť"
+  "Visual_ColorSaturation": "Farebná sýtosť",
+  "Visual_Description_LegendPosition": "Select the location for the legend",
+  "Visual_Description_LegendShowTitle": "Display a title for legend symbols",
+  "Visual_Description_LegendName": "Title text"
 }

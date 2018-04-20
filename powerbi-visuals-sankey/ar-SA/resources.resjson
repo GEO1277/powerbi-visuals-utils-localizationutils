@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "حجم منفذ العرض",
   "Visual_Display_Units": "وحدات العرض",
   "Visual_SankeyScaleSettings": "إعدادات المقياس",
-  "Visual_MinOptimalHeight": "توفير أدنى ارتفاع مثالي لعقدة"
+  "Visual_MinOptimalHeight": "توفير أدنى ارتفاع مثالي لعقدة",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

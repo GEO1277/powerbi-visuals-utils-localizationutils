@@ -20,5 +20,12 @@
   "Visual_ViewportSize": "Μεγέθη οπτικής γωνίας",
   "Visual_Display_Units": "Εμφάνιση μονάδων",
   "Visual_SankeyScaleSettings": "Ρυθμίσεις κλίμακας",
-  "Visual_MinOptimalHeight": "Παράχετε το ελάχιστο βέλτιστο ύψος του κόμβου"
+  "Visual_MinOptimalHeight": "Παράχετε το ελάχιστο βέλτιστο ύψος του κόμβου",
+  "Visual_Cycles": "Cycles displaying",
+  "Visual_DuplicateNodes": "Duplicate nodes",
+  "Visual_Duplicate": "Duplicate",
+  "Visual_DrawBackwardLink": "Draw backward link",
+  "Visual_SelflinkWeight": "Ignore weight of self links",
+  "Visual_TooltipDisplayName": "Name",
+  "Visual_Description_Force_Display": "Display all labels anyway"
 }

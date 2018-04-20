@@ -48,5 +48,7 @@
   "formattingHeaderOutlineTypeFrame": "Рамка",
   "Visual_Images_Round": "Округлити",
   "Visual_Selection": "Виділення",
-  "Visual_show": "Відображення"
+  "Visual_show": "Відображення",
+  "Visual_Transparency": "Transparency",
+  "Visual_Description_Transparency": "Set transparency for background color"
 }
